@@ -1,0 +1,28 @@
+name: captain
+favicon: null
+layout_spectrum: 0.8743495226372033
+typography_spectrum: 0.9593761556316167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7358623293694109
+  lightness: 0.5477836383506656
+  saturation: 0.7026613170746714
+  rhythmicContrast: 0.7123129253741354
+purpose: []
