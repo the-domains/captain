@@ -2,6 +2,7 @@ name: captain
 favicon: null
 layout_spectrum: 0.8743495226372033
 typography_spectrum: 0.9593761556316167
+title: 'The sky is the limit!'
 cta:
   domain: null
   bucket: null
